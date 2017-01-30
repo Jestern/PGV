@@ -49,6 +49,9 @@ Binaries/*
 # Builds
 Build/*
 
+# Evitar el contenido del pack de mundo abierto
+Content/KiteDemo/*
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
